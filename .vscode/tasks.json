@@ -4,7 +4,7 @@
         {
             "label": "build-and-test",
             "type": "shell",
-            "command": "cd ${workspaceFolder}/rbtree_lab && make -C test test-rbtree",
+            "command": "cd ${workspaceFolder}/rbtree_lab && make clean && make -C test test-rbtree",
             "group": {
                 "kind": "build",
                 "isDefault": true

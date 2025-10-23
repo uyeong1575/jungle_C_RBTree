@@ -1,0 +1,26 @@
+// {
+//     "files.associations": {
+//         "stdio.h": "c",
+//         "stdbool.h": "c",
+//         "*.psuedo": "c"
+//     },
+//     "C_Cpp.default.includePath": [
+//         "${workspaceFolder}/rbtree_lab/src"
+//     ]
+// }
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdbool.h": "c",
+        "*.psuedo": "markdown"
+    },
+    "[markdown]": {
+        "editor.formatOnSave": false,
+        "editor.wordWrap": "on"
+    },
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/rbtree_lab/src"
+    ],
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+}

@@ -56,3 +56,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# 관련 내용 공부용 폴더
+uy_study/**
